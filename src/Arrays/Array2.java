@@ -42,16 +42,16 @@
 //    }
 //}
 
-public class Array2 {
-    public static void main(String[]args){
-        int a=153;
-        int b = a / 100;
-        int c = (a / 10) % 10;
-        int d = a % 10;
-
-        System.out.println( b + "  "+ c +"  " +d);
-        int container = b*b*b + c*c*c + d*d*d;
-        int sum =container;
-        System.out.println(sum);
-    }
-}
+//public class Array2 {
+//    public static void main(String[]args){
+//        int a=153;
+//        int b = a / 100;
+//        int c = (a / 10) % 10;
+//        int d = a % 10;
+//
+//        System.out.println( b + "  "+ c +"  " +d);
+//        int container = b*b*b + c*c*c + d*d*d;
+//        int sum =container;
+//        System.out.println(sum);
+//    }
+//}
