@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GIT-GITHUB" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/LocalRepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Stack" vcs="Git" />
   </component>
 </project>
