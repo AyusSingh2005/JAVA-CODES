@@ -382,4 +382,47 @@
 //                    }
 //                }
 
+//package Arrays;
+//import java.util.*;
+//public class ArrayProblem {
+//
+//    public static void main(String[]args){
+//        long start = System.nanoTime();
+//    int []arr={1,2,3,1,4,2,1,3,1,4,1,2,1,5,6,1,4,1};
+//    int n=arr.length-1;Arrays.sort(arr);
+//    ArrayList <Integer> arr2 = new ArrayList<>();
+//    for(int i=0;i<arr.length;i++){
+//        if(i==0 || arr[i]!=arr[i - 1])arr2.add(arr[i]);
+//    }System.out.println(arr2);
+//   long end= System.nanoTime();
+//                long totalTime=end-start;
+//                System.out.println("TOTAL TILE TAKEN: "+totalTime/1000000 +" ms");
+//                System.out.println("TOTAL TILE TAKEN: "+totalTime/1_000_000_000.0 +" sec");
+//0.0023667 sec
+//    }
+//}
 
+
+//                package Arrays;
+//import java.util.*;
+//public class ArrayProblem {
+//
+//    public static void main(String[]args){
+//        long startTime = System.nanoTime();
+//    int []arr={1,2,3,1,4,2,1,3,1,4,1,2,1,5,6,1,4,1};Arrays.sort(arr);
+//    int frequency=1,currFrequency=1, element=arr[0];
+//    for(int i=1;i<arr.length;i++){
+//        if(arr[i]==arr[i - 1])currFrequency++;
+//        else{ currFrequency=1;}
+//            if(currFrequency>frequency)frequency=currFrequency; element=arr[i];
+//    }
+//    System.out.println("ELEMET IS: "+element+" Frequency is: "+frequency);
+//    long endTime=System.nanoTime();
+//    long TotalTime = endTime-startTime;
+//        System.out.println("TOTAL TILE TAKEN: "+TotalTime/1000000 +" ms");
+//        System.out.println("TOTAL TILE TAKEN: "+TotalTime/1_000_000_000.0 +" sec");
+//        TOTAL TILE TAKEN: 4 ms
+//        TOTAL TILE TAKEN: 0.0045264 sec
+//
+//    }
+//}
