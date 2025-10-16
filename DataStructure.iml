@@ -7,5 +7,23 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Projects/lib">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/OneDrive/Documents/twilio-10.0.0-jar-with-dependencies.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/OneDrive/Documents/slf4j-simple-2.0.9.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

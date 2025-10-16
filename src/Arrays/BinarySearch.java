@@ -9,7 +9,7 @@
 //        while(st <= target) {
 //            int mid = (st + end) / 2;
 //            if (arr[mid]==target){
-//                System.out.println("found!!");
+//                System.out.println("found: "+mid);
 //                return;
 //            }else if(arr[mid]<target){
 //                st =mid +1;
