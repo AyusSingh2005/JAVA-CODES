@@ -68,7 +68,7 @@ public class newArray {
 //        System.out.println(max);
 
 
-        //
+
 
 
     }
