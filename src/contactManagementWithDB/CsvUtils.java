@@ -1,4 +1,4 @@
-package Projects;
+package contactManagementWithDB;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -6,9 +6,6 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
-
-import java.io.*;
-import java.sql.ResultSet;
 
 public class CsvUtils {
 

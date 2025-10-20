@@ -1,4 +1,4 @@
-package Projects;
+package contactManagementWithDB;
 import java.security.MessageDigest;
 
 public class Utils {

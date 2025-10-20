@@ -1,4 +1,4 @@
-package Projects;
+package contactManagementWithDB;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
