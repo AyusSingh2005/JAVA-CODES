@@ -85,7 +85,6 @@
 //
 //public class LinkedList {
 //    Odd head;
-//
 //    public void insert(int data){
 //        Odd newData=new Odd(data);
 //        if(head==null) head=newData;
