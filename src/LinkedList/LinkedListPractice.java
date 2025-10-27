@@ -14,6 +14,7 @@ class Data{
 public class LinkedListPractice {
     Scanner sc = new Scanner(System.in);
     Data head;
+
     public void add(int data){
        Data newData = new  Data(data);
        if(head==null)head = newData;
