@@ -1,21 +1,24 @@
+//package Arrays;
 //import java.util.*;
-//class Array{
-//    public static void main(String[]args){
+//
+//class Array {
+//    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
 //
 //        System.out.print("\nEnter the size of the array: ");
 //        int n = sc.nextInt();
 //
-//        int[]arr= new int[n];
+//        int[] arr = new int[n];
 //
 //
 //        System.out.println("\nTaking the elements of the array!\n");
 //
-//        for(int i=0;i<n;i++){
-//            System.out.print("Enter the element at  index no:"+ i+" :");
-//            arr[i]=sc.nextInt();
+//        for (int i = 0; i < n; i++) {
+//            System.out.print("Enter the element at  index no:" + i + " :");
+//            arr[i] = sc.nextInt();
 //        }
-
+//    }
+//}
                      //TO PRINT THE ARRAY
 
 
@@ -229,9 +232,6 @@
 //        }
 //    }
 //}
-
-
-
 
 
 
